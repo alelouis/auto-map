@@ -5,7 +5,7 @@ Generated images can be found in `/maps` folder.
 
 Originaly developped to be included in an anki deck, to be released.
 
-## Examples
+## Example
 <img src="./maps/FRA.png">
 
 ## Dependencies
