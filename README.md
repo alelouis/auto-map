@@ -3,7 +3,7 @@
 Utility script generating orthographic maps for every country.  
 Generated images can be found in `/maps` folder.
 
-Originaly developped to be included in an anki deck, to be released.
+Originaly developed to be included in an anki deck, to be released.
 
 ## Example
 <img src="./maps/FRA.png">
